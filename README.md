@@ -1,4 +1,11 @@
-## Hi there 👋
+I'm Dario Garcia-Gasulla, AI researcher and group leader at Barcelona Supercomputing Center (BSC). 
+
+Most of my professional work on AI is done through the [High Performance Artificial Intelligence (HPAI)](https://hpai.bsc.es/) research group, which I co-founded in 2018. This includes mostly ML projects, some of which have produced assets of interest:
+* [TuRTLe](https://huggingface.co/spaces/HPAI-BSC/TuRTLe-Leaderboard): A benchmark for evaluating LLMs for chip design
+* [Aloe](https://huggingface.co/collections/HPAI-BSC/healthcare-llms-aloe-family-6701b6a777f7e874a2123363): A family of SFT healthcare LLMs
+* [SuSy](https://huggingface.co/HPAI-BSC/SuSy): A synthetic content detector
+
+Check info for those projects and others on the HPAI linked sites. Beware, my github includes personal repos as well, done for fun.
 
 <!--
 **dariogarcia/dariogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
